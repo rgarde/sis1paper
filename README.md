@@ -32,7 +32,7 @@ Fig S2D: Barchart of target gene expression in the cell lines developed in this 
 Fig S2EF : see description of Fig 3EF above.
 Fig S3A: Control growth experiment: 2% glucose media (YPD) all details described in Heat Shock Quantitative Growth Assay except that cells were grown at 30°C throughout the assay (i.e. non-stress conditions). 
 Fig S3B: Quantitative Growth Assay as described in Methods: Glucose Starvation Quantitative Growth Assay. One biological replicate of 1701 (with asterisks) was excluded because it failed to grow. 
-
+CellLines: Contains the genotype of all cell lines used in this publication, as well as the figures in which each cell line appears.
 ## Description of the data and file structure
 
 Data in this upload are organized based on the figure they appear in, in the publication: Induction of Sis1 promotes fitness but not feedback in the heat shock response
